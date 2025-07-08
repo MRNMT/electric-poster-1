@@ -2,6 +2,21 @@
 # ⚡ Electrical Safety Reference Guide
 
 This project provides essential information and best practices for electrical safety in the workplace, following the **OSHA Standard 1926.431**. Whether you're a safety officer, technician, or curious learner, this guide is designed to help prevent electrical hazards and foster a culture of safety.
+# ⚡ Electrical Safety Reference Web App
+
+An interactive training platform designed to raise awareness and educate users on safe electrical practices in compliance with **OSHA Standard 1926.431**. The app visually presents key safety concepts, tips, and hazards through a dynamic poster-style interface.
+
+## 🧭 Approach
+
+This web app uses a poster-inspired design to make safety training engaging and intuitive. It leverages:
+
+- **HTML/CSS** for a clean and responsive layout
+- **JavaScript** for interactive elements (tooltips, pop-ups)
+- **Safety-first UX** with bold icons, hazard alerts, and layered learning modules
+
+
+
+
 
 ## 📋 Table of Contents
 - [OSHA Electrical Safety Standard](#osha-electrical-safety-standard)
